@@ -19,17 +19,17 @@ Your company has decided to crowdsale an ERC-20 token to fund a new pet-focused 
 
 1. The first step is setting up two files in Remix for contract: `PupperCoin.sol` and `Crowdsale.sol`. I've provided the files in my `/Contracts` directory for product testing. I've also provided screenshots in the `/Screenshots` directory for reference. 
 
-2. Compile the files in Remix and check to make sure no compile errors are thrown. ![](./Screenshots/check_BalanceRemixIDE.png)
+2. Compile the files in Remix and check to make sure no compile errors are thrown. ![](https://github.com/arwa486/PupperCoin/blob/master/Screenshots/check_BalanceRemixIDE.PNG)
 
 3. If you haven't already, sign up for MyCrypto or Metamask and install the app or extension to create testnet addresses. 
 
 4. Fund the [Kovan](https://faucet.kovan.network/) or [Ropsten](https://faucet.ropsten.be/) testnet addresses with test Ether  from the appropriate faucet.
 
-5. Deploy the `Crowdsale.sol` contract to one of the funded addresses. Fill in  Be sure that the Enviroment is set to `Injected Web3`. If linked correctly, Metamask should popup and you will click "Confirm" the transaction. ![](./Screenshots/deployed_KovanTestnet2.png)
+5. Deploy the `Crowdsale.sol` contract to one of the funded addresses. Fill in  Be sure that the Enviroment is set to `Injected Web3`. If linked correctly, Metamask should popup and you will click "Confirm" the transaction. ![](https://github.com/arwa486/PupperCoin/blob/master/Screenshots/deployed_KovanTestnet2.PNG)
 
     NB: if the contract fails to deploy, increase the gas limit until it does. 
 
-6. Experiment with the call functions on the right side to mint the "PupperCoin" and send it to another address in your wallet. You may receive a notification from Metamask that the transaction has been confirmed on the testnet. ![](./Screenshots/etherscan_confirmation.png)
+6. Experiment with the call functions on the right side to mint the "PupperCoin" and send it to another address in your wallet. You may receive a notification from Metamask that the transaction has been confirmed on the testnet. ![](https://github.com/arwa486/PupperCoin/blob/master/Screenshots/etherscan_confirmation.png)
 
 ## Contact: 
 
