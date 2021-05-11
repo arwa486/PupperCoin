@@ -29,7 +29,7 @@ Your company has decided to crowdsale an ERC-20 token to fund a new pet-focused 
 
     NB: if the contract fails to deploy, increase the gas limit until it does. 
 
-6. Experiment with the call functions on the right side to mint the "PupperCoin" and send it to another address in your wallet. You may receive a notification from Metamask that the transaction has been confirmed on the testnet. ![](https://github.com/arwa486/PupperCoin/blob/master/Screenshots/etherscan_confirmation.png)
+6. Experiment with the call functions on the right side to mint the "PupperCoin" and send it to another address in your wallet. You may receive a notification from Metamask that the transaction has been confirmed on the testnet. ![](https://github.com/arwa486/PupperCoin/blob/master/Screenshots/etherscan_confirmation.PNG)
 
 ## Contact: 
 
